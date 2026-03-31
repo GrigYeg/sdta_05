@@ -80,7 +80,6 @@ int main()
 {
     firstNode=addLast(firstNode,"Toyota Camry",2012,4500.0);
     firstNode=addLast(firstNode,"Honda Civic",2018,12000.0);
-    firstNode=addLast(firstNode,"Ford Focus",2010,3800.0);
     firstNode=addLast(firstNode,"Nissan Leaf",2015,6000.0);
     firstNode=addLast(firstNode,"Mazda 3",2008,4200.0);
 
