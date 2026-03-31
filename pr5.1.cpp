@@ -155,7 +155,7 @@ int main()
     firstNode=addLast(firstNode,10);
     firstNode=addLast(firstNode,20);
     firstNode=addAfter(firstNode,10,15);
-    
+
     cout<<"Initial list:"<<endl;
     printList(firstNode);
     
